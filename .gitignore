@@ -1,0 +1,7 @@
+# Project exclude paths
+cmake-build-debug
+build
+.history
+.vscode
+.idea
+.clion*
